@@ -27,7 +27,7 @@ body {
   position: relative;
 }
 #slider {
-  max-width: 650px;/* 设置最大的宽度 */
+  max-width: 100%;/* 设置最大的宽度 */
   margin: 0px auto; /* 居中对齐 */
 }
 
@@ -67,4 +67,12 @@ div.swipe {
   position: absolute;
   bottom:0;
   height: 60px;
+}
+.close-icon{
+  top:0;
+  right:5px;
+  color:#ffffff;
+  font-style: inherit;
+  font-family: "Microsoft yahei";
+  position:absolute;
 }
