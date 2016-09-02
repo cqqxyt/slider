@@ -72,8 +72,19 @@ div.swipe {
 .close-icon{
   top:0;
   right:5px;
-  color:#ffffff;
+  color:#999999;
   font-style: inherit;
   font-family: "Microsoft yahei";
   position:absolute;
+}
+.ad-text{
+  position:absolute;
+  font-size: 12px;
+  font-family: "Microsoft yahei";
+  top:0;
+  left:0;
+  font-style: inherit;
+  color:#ffffff;
+  background: #999999;
+  padding:2px;
 }
