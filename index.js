@@ -1,4 +1,6 @@
-init();
+$(function(){
+	init();
+})
 
   function init(){
 
