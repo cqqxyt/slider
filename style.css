@@ -29,6 +29,7 @@ body {
 #slider {
   max-width: 650px;/* 设置最大的宽度 */
   margin: 0px auto; /* 居中对齐 */
+  width:100%;
 }
 
 figure {
